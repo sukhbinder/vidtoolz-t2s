@@ -1,0 +1,20 @@
+T2S - Text to speech using kokoro for mac os
+
+type ``vid t2s --help`` to get help
+
+CLI Options:
+Text to speech using kokoro for mac os
+
+
+
+Examples:
+  1. vid t2s --help`` to get help
+
+
+Examples:
+  1. vid t2s --help to get help
+
+
+Examples:
+  1. vid t2s input.mp4 -o output.mp4
+  2. vid t2s input.mp4 --help
